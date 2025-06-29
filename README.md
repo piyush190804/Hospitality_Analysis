@@ -14,7 +14,7 @@ Despite having vast historical data, AtliQ Grands lacked the in-house capabiliti
 
 - 📌 Operational inefficiencies were hard to identify.
 
-Hence, a third-party analyst(you!) was brought in to transform the raw data into powerful dashboards and insights.
+Hence, a third-party analyst (you!) was brought in to transform the raw data into powerful dashboards and insights.
 
 ## 🎯 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗢𝗕𝗝𝗘𝗖𝗧𝗜𝗩𝗘𝗦
 
