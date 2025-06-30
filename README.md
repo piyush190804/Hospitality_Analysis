@@ -1,4 +1,4 @@
- # 🏨 HOSPITALITY INSIGHTS 360 :
+ # 🏨 HOSPITALITY ANALYSIS :
 This Power BI dashboard provides comprehensive insights into 𝗔𝘁𝗹𝗶𝗤 𝗚𝗿𝗮𝗻𝗱𝘀’ 📉 performance decline, 📊 revenue trends, 🎯 booking behavior, and 🏆 operational KPIs across business and luxury hotels. By analyzing key metrics such as RevPAR, ADR, and Realization Rate, the dashboard empowers decision-makers with data-driven strategies to regain market position and optimize business operations.
 
 ## 🏢 𝗖𝗢𝗠𝗣𝗔𝗡𝗬 𝗕𝗔𝗖𝗞𝗚𝗥𝗢𝗨𝗡𝗗
