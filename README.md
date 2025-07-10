@@ -60,7 +60,7 @@ Monitored core hotel KPIs like RevPAR, ADR, and Realization % to assess operatio
 
 ## LIVE DASHBOARD :
 
-Explore the Live Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZjNiMzgzOTctNTY3OS00YWExLThlOWYtNzBhZDBmY2FkN2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+Explore the Live Dashboard [here](https://tinyurl.com/5e5dutxc).
 
 ## 🧠 KEY LEARNINGS
 - Developed and applied DAX measures and calculated columns to compute metrics like RevPAR, ADR, DSRN, and Occupancy %.
