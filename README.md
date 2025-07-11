@@ -58,7 +58,7 @@ Analyzed bookings, cancellations, and no-shows by room class and platform to unc
 Monitored core hotel KPIs like RevPAR, ADR, and Realization % to assess operational efficiency across time and segments.
 ![Screenshot 2025-06-29 193456](https://github.com/user-attachments/assets/da670fb5-cc4d-41d6-904e-84eca891da61)
 
-## LIVE DASHBOARD :
+# 🖥️ LIVE DASHBOARD :
 
 Explore the Live Dashboard [here](https://tinyurl.com/5e5dutxc).
 
